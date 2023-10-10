@@ -1,0 +1,1 @@
+https://github.com/niclas-timm/laravel-nextjs-starter
